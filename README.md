@@ -21,7 +21,7 @@ This is a simple C-based contact manager application for Windows using the Win32
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/contact-manager.git
+   git clone https://github.com/deman404/contact-manager.git
    ```
 
 2. Open the project in your favorite C development environment (e.g., Visual Studio, Code::Blocks, or MinGW with GCC).
