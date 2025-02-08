@@ -51,8 +51,9 @@ Once the application is running, you will see the following UI elements:
 - **contacts.txt**: A text file where contacts are stored in a CSV format (Name, Phone, Email).
   Example:
   ```
-  John Doe,1234567890,johndoe@example.com
-  Jane Smith,9876543210,janesmith@example.com
+  Ayman,060000000,ayman@example.com
+  Ayman2,060033000,ayman2@example.com
+  
   ```
 
 ## Screenshots
@@ -69,7 +70,7 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ## Authors
 
-- **Ayman Azhar** - _Initial work_ - [Your GitHub Profile](https://github.com/yourusername)
+- **Ayman Azhar** - _Initial work_ - [Your GitHub Profile](https://github.com/deman404)
 
 ## Acknowledgments
 
