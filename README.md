@@ -1,6 +1,6 @@
 Here's the complete README content in markdown format to copy and add to your GitHub project repository:
 
-```markdown
+
 # Contact Manager Application
 
 This is a simple C-based contact manager application for Windows using the Win32 API. The application allows users to add, view, and remove contacts. It stores contact information (name, phone, and email) in a text file, providing persistent data storage across application launches.
